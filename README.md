@@ -8,9 +8,7 @@
 
 <div align="center">
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=fandouniuniune-prog&show_icons=true&theme=radical&locale=cn)](https://github.com/fandouniuniune-prog)
-
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fandouniuniune-prog&layout=compact&theme=radical&locale=cn)](https://github.com/fandouniuniune-prog)
+[![GitHub 贡献热度](https://streak-stats.demolab.com/?user=fandouniuniune-prog&theme=radical&border_radius=8)](https://github.com/fandouniuniune-prog)
 
 </div>
 
