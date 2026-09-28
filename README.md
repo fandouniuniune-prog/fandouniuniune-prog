@@ -1,12 +1,16 @@
 <h1 align="center">👋 你好，我是 牛牛</h1>
 
-<h3 align="center">注塑物料管理系统开发者 · 全栈爱好者</h3>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&height=50&lines=Python+%2F+Flask+Developer;Full-stack+Enthusiast;Building+Material+Management+Systems" alt="Typing SVG" />
+
+</p>
 
 <div align="center">
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=fandouniuniune-prog&show_icons=true&theme=tokyonight&locale=cn)](https://github.com/fandouniuniune-prog)
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=fandouniuniune-prog&show_icons=true&theme=radical&locale=cn)](https://github.com/fandouniuniune-prog)
 
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fandouniuniune-prog&layout=compact&theme=tokyonight&locale=cn)](https://github.com/fandouniuniune-prog)
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fandouniuniune-prog&layout=compact&theme=radical&locale=cn)](https://github.com/fandouniuniune-prog)
 
 </div>
 
